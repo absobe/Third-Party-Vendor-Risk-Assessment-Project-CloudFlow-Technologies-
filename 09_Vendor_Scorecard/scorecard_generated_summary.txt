@@ -1,0 +1,26 @@
+This is a fictional cybersecurity case study created for educational and portfolio purposes.
+
+Overall vendor score: 74.4
+Overall residual risk: High
+Recommendation: Conditional Approval
+
+Domain scores:
+  Security Governance: 78 (weight 10%, contribution 7.8)
+  Access Control: 82 (weight 10%, contribution 8.2)
+  Data Protection: 88 (weight 15%, contribution 13.2)
+  Vulnerability Management: 74 (weight 10%, contribution 7.4)
+  Incident Response: 72 (weight 10%, contribution 7.2)
+  Business Continuity: 62 (weight 15%, contribution 9.3)
+  Compliance: 70 (weight 10%, contribution 7.0)
+  Cloud Security: 85 (weight 10%, contribution 8.5)
+  Third-Party Management: 58 (weight 10%, contribution 5.8)
+
+Residual ratings:
+  VR-001 Weak Subprocessor Governance: 12 High (Mitigate)
+  VR-002 Insufficient Backup Recovery Testing: 12 High (Mitigate)
+  VR-003 Undefined Recovery Point Objective: 12 High (Mitigate)
+  VR-004 Unclear Incident Notification SLA: 12 High (Mitigate)
+  VR-005 SOC 2 Type I Only: 6 Moderate (Accept)
+  VR-006 No ISO 27001 Certification: 6 Moderate (Accept)
+  VR-007 Vulnerability Remediation Window: 9 Moderate (Accept)
+  VR-008 Legacy MFA Gap: 9 Moderate (Mitigate)
